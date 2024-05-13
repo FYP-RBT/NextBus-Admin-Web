@@ -68,7 +68,7 @@ class _SideNavigationDrawerState extends State<SideNavigationDrawer>
           AdminMenuItem(
             title: "Drivers",
             route: DriversPage.id,
-            icon: CupertinoIcons.car_detailed,
+            icon: CupertinoIcons.bus,
           ),
           AdminMenuItem(
             title: "Users",
